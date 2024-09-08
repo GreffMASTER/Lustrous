@@ -1,17 +1,15 @@
 -- Project Greenbox (Lustrous) 2022-2024
 -- Started around 06/21/2022 9:00 PM
--- Currently      06/26/2024
+-- Currently      04/09/2024
 
-_LVERSION = 'Lustrous v. Alpha 1.2.7 (2024-Apr-26)'
+_LVERSION = 'Lustrous v. Alpha 1.2.3_02 (2024-Apr-10) (Fool\'s Demo)'
 _WEBBUILD = false
-_GMState = require 'common.managers.stateman'
-_FONTMAN = require 'common.managers.fontman'
-_INPUTMAN = require 'common.managers.inputman'
+_GMState = require 'stateman'
 _PROFILE = nil
 _AVATARS = {}
 _SONGS = {}
 _SONGS_TA = {}
-_DEBUG = true
+_DEBUG = false
 
 local loader = require 'common.loader'
 local logger = require 'common.logger'
@@ -39,7 +37,7 @@ function draw_progress_text(text)
     logscreen = logger.log(text)
     rot1 = rot1 + 0.0075
     rot2 = rot2 - 0.01
-    rot3 = rot3 + 0.0225
+    rot3 = rot3 + 0.0125
     quick_draw()
 end
 
@@ -47,8 +45,6 @@ function love.load(args)
     draw_progress_text(_VERSION)
     love.graphics.setDefaultFilter( 'nearest', 'nearest', 1 )
     draw_progress_text(_LVERSION)
-    -- Load content pack
-    loader.mountContentPack('content.zip')
     -- Create fonts
     draw_progress_text('Creating fonts...')
     _GMFont14 = love.graphics.newFont( 14 )
@@ -59,15 +55,9 @@ function love.load(args)
     _GMFont64 = love.graphics.newFont( 64 )
     _GMFont128 = love.graphics.newFont( 128 )
     _GMFont256 = love.graphics.newFont( 256 )
-    _FONTMAN.loadFont('electric', 'common/fonts/electric.ttf')
     -- Initiate stateman
     draw_progress_text('Starting StateMan...')
-    _GMState.load()
-    --_INPUTMAN.load(_GMState.actionPressed, _GMState.actionReleased)
-    --_INPUTMAN.newAction('move-left', 'Move Left')
-    --_INPUTMAN.addReservedKey('a')
-    --_INPUTMAN.bindKeyToAction('left', 'move-left')
-    --_INPUTMAN.bindKeyToAction('a', 'move-left')
+    _GMState.load( )
     -- Load states to the state list
     draw_progress_text('Loading game states...')
     
@@ -85,9 +75,13 @@ function love.load(args)
     _GMState.addState(require 'states.loadingstate', 'loading')
     draw_progress_text('Loading "states.gamestate" as "game"')
     _GMState.addState(require 'states.gamestate', 'game')
-    draw_progress_text('Loading "states.quitstat" as "quit"')
+    draw_progress_text('Loading "states.quitstate" as "quit"')
     _GMState.addState(require 'states.quitstate', 'quit')
 
+    draw_progress_text('Loading "states.demo_start" as "demo_start"')
+    _GMState.addState(require 'states.demo_start', 'demo_start')
+    draw_progress_text('Loading "states.demo_end" as "demo_end"')
+    _GMState.addState(require 'states.demo_end', 'demo_end')
     -- load avatars
     draw_progress_text('Loading avatars...')
     loader.loadAvatars()
