@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39mm"
+   height="25.136999mm"
+   viewBox="0 0 39 25.136999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="head_dizzy.svg"
+   inkscape:export-filename="/home/greffmaster/Obrazy/newcripsy.png"
+   inkscape:export-xdpi="406"
+   inkscape:export-ydpi="406"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2382997"
+     inkscape:cx="27.457003"
+     inkscape:cy="48.453535"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0,-271.86296)">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6528173,295.50021 H 37.435473 V 272.92826 H 9.439263 l -7.8739357,7.87394 z"
+       id="path3757"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-271.86296)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.875202,289.9128 -3.430384,-0.0418 H 8.328402 l -3.482267,2.01046"
+       id="path3847"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/greffmaster/Desktop/head_dizzy.png"
+       inkscape:export-xdpi="406"
+       inkscape:export-ydpi="406" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.89133862;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1006"
+       sodipodi:cx="41.000744"
+       sodipodi:cy="38.198097"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="20.592936"
+       sodipodi:argument="-18.064157"
+       sodipodi:t0="0"
+       d="m 41.000744,38.198097 c 0.730085,0.730086 -0.623943,1.344339 -1.213451,1.21345 -1.59753,-0.354701 -1.854342,-2.400938 -1.213449,-3.640351 1.146408,-2.217019 4.123379,-2.476741 6.067252,-1.213449 2.852712,1.853932 3.117587,5.869186 1.213448,8.494153 -2.537917,3.498668 -7.623287,3.766292 -10.921054,1.213447 -4.149902,-3.212494 -4.419063,-9.381342 -1.213446,-13.347954 3.882432,-4.804099 11.141623,-5.07419 15.774855,-1.213446 5.460103,4.549753 5.730793,12.903293 1.213445,18.201756 -5.215457,6.117285 -14.665889,6.388383 -20.628656,1.213445 -6.775276,-5.880095 -7.046664,-16.429137 -1.213444,-23.055558 6.54399,-7.433843 18.192857,-7.705443 25.482458,-1.213443 8.092837,7.207351 8.364598,19.956937 1.213442,27.909359"
+       transform="matrix(0.26458333,0,0,0.26458333,0,271.86296)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.89134;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1088"
+       sodipodi:cx="41.000744"
+       sodipodi:cy="38.198097"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="20.592936"
+       sodipodi:argument="-18.064157"
+       sodipodi:t0="0"
+       d="m 41.000744,38.198097 c 0.730085,0.730086 -0.623943,1.344339 -1.213451,1.21345 -1.59753,-0.354701 -1.854342,-2.400938 -1.213449,-3.640351 1.146408,-2.217019 4.123379,-2.476741 6.067252,-1.213449 2.852712,1.853932 3.117587,5.869186 1.213448,8.494153 -2.537917,3.498668 -7.623287,3.766292 -10.921054,1.213447 -4.149902,-3.212494 -4.419063,-9.381342 -1.213446,-13.347954 3.882432,-4.804099 11.141623,-5.07419 15.774855,-1.213446 5.460103,4.549753 5.730793,12.903293 1.213445,18.201756 -5.215457,6.117285 -14.665889,6.388383 -20.628656,1.213445 -6.775276,-5.880095 -7.046664,-16.429137 -1.213444,-23.055558 6.54399,-7.433843 18.192857,-7.705443 25.482458,-1.213443 8.092837,7.207351 8.364598,19.956937 1.213442,27.909359"
+       transform="matrix(0.26458333,0,0,0.26458333,16.817448,271.86296)" />
+  </g>
+</svg>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="bloxy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="52.5"
+     inkscape:cy="20.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="128px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="32.25,123.25"
+       orientation="0,-1"
+       id="guide3576" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-0.60051958 : 66.075305 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="122.70396 : 70.730959 : 1"
+       inkscape:persp3d-origin="60 : 48 : 1"
+       id="perspective37" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-0.60051958 : 68.075305 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="122.70396 : 72.730959 : 1"
+       inkscape:persp3d-origin="60 : 75.256422 : 1"
+       id="perspective37-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="16.627186 : 66.827378 : 1"
+       inkscape:vp_y="0 : 869.0222 : 0"
+       inkscape:vp_z="123.78153 : 70.873244 : 1"
+       inkscape:persp3d-origin="69.290383 : 51.119537 : 1"
+       id="perspective37-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="16.627186 : 68.565422 : 1"
+       inkscape:vp_y="0 : 869.0222 : 0"
+       inkscape:vp_z="123.78153 : 72.611289 : 1"
+       inkscape:persp3d-origin="69.290383 : 74.805973 : 1"
+       id="perspective37-3-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g39-7"
+       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+       transform="matrix(3.3324591,0,0,3.3324591,-82.803904,-140.56883)"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/br.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 53.434261,60.655389 3.315397,-0.04659 v 11.891518 l -3.315397,-0.93603 z"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.930143;stroke-linejoin:round"
+         id="path1905" />
+      <path
+         d="m 44.219753,61.11759 v 12.337812 l 9.214508,-1.891115 V 60.655389 Z"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1907" />
+      <path
+         d="m 44.219753,73.455402 2.844514,1.26623 9.685391,-2.221315 -3.315397,-0.93603 z"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1909" />
+      <path
+         d="m 44.219753,61.11759 2.844514,-0.0057 9.685391,-0.503118 -3.315397,0.04659 z"
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1911" />
+      <path
+         d="m 47.064267,61.111917 v 13.609715 l 9.685391,-2.221315 V 60.608799 Z"
+         style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1913" />
+      <path
+         d="m 44.219753,61.11759 2.844514,-0.0057 v 13.609715 l -2.844514,-1.26623 z"
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1915" />
+    </g>
+    <g
+       id="g39-6-1"
+       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+       transform="matrix(3.3324591,0,0,3.3324591,-82.803904,-140.56883)"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/tr.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 53.434261,48.749466 3.315397,-0.962462 v 11.891518 l -3.315397,-0.02016 z"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.962927;stroke-linejoin:round"
+         id="path1919" />
+      <path
+         d="m 44.219753,47.879817 v 12.337812 l 9.214508,-0.559265 V 48.749466 Z"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.93429;stroke-linejoin:round"
+         id="path1921" />
+      <path
+         d="m 44.219753,60.217629 2.844514,0.08073 9.685391,-0.619832 -3.315397,-0.02016 z"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1923" />
+      <path
+         d="m 44.219753,47.879817 2.844514,-1.191178 9.685391,1.098365 -3.315397,0.962462 z"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1925" />
+      <path
+         d="m 47.064267,46.688639 v 13.609715 l 9.685391,-0.619832 V 47.787004 Z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1927" />
+      <path
+         d="m 44.219753,47.879817 2.844514,-1.191178 v 13.609715 l -2.844514,-0.08073 z"
+         style="fill:#ececec;fill-rule:evenodd;stroke:none;stroke-width:0.902481;stroke-linejoin:round"
+         id="path1929" />
+    </g>
+    <g
+       id="g39"
+       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+       transform="matrix(3.3324591,0,0,3.3324591,-82.120643,-140.56883)"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/bl.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 41.754064,61.329505 3.815088,-0.05361 V 74.959686 L 41.754064,73.88258 Z"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1933" />
+      <path
+         d="m 31.15076,61.861369 v 14.19735 L 41.754064,73.882578 V 61.329505 Z"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1935" />
+      <path
+         d="m 31.15076,76.058719 3.273235,1.457074 11.145157,-2.556109 -3.815088,-1.077106 z"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1937" />
+      <path
+         d="m 31.15076,61.861369 3.273235,-0.0065 11.145157,-0.578948 -3.815088,0.05361 z"
+         style="fill:#e6e6e6;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1939" />
+      <path
+         d="M 34.423995,61.854841 V 77.515793 L 45.569152,74.959684 V 61.275893 Z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1941" />
+      <path
+         d="m 31.15076,61.861369 3.273235,-0.0065 V 77.515793 L 31.15076,76.058719 Z"
+         style="fill:#ececec;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1943" />
+    </g>
+    <g
+       id="g39-6"
+       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+       transform="matrix(3.3324591,0,0,3.3324591,-82.120643,-140.56883)"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/tl.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 41.754064,47.629138 3.815088,-1.107522 v 13.683791 l -3.815088,-0.0232 z"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1855" />
+      <path
+         d="M 31.15076,46.628418 V 60.825767 L 41.754064,60.182211 V 47.629138 Z"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1857" />
+      <path
+         d="m 31.15076,60.825767 3.273235,0.09289 11.145157,-0.713252 -3.815088,-0.0232 z"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1859" />
+      <path
+         d="m 31.15076,46.628418 3.273235,-1.370712 11.145157,1.26391 -3.815088,1.107522 z"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1861" />
+      <path
+         d="M 34.423995,45.257706 V 60.918659 L 45.569152,60.205407 V 46.521616 Z"
+         style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1863" />
+      <path
+         d="m 31.15076,46.628418 3.273235,-1.370712 v 15.660953 l -3.273235,-0.09289 z"
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path1865" />
+    </g>
+    <path
+       id="path3327"
+       style="fill:#1a1a1a;stroke-width:1.60314;stroke-linecap:round;stroke-linejoin:round"
+       d="m 90.540334,22.59633 a 10.207563,15.052419 0 0 0 -10.207503,15.051369 10.207563,15.052419 0 0 0 10.207503,15.051369 10.207563,15.052419 0 0 0 9.656416,-10.263863 5.2351391,7.7199133 0 0 1 -4.10179,2.930743 5.2351391,7.7199133 0 0 1 -5.235252,-7.718249 5.2351391,7.7199133 0 0 1 5.235252,-7.72138 5.2351391,7.7199133 0 0 1 4.13623,2.990234 10.207563,15.052419 0 0 0 -9.690856,-10.320223 z"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/er.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3448"
+       style="fill:#cccccc;stroke-width:1.92226;stroke-linecap:round;stroke-linejoin:round"
+       d="M 50.853848,18.811418 A 12.239449,18.048706 0 0 0 38.614471,36.858865 12.239449,18.048706 0 0 0 50.853848,54.906313 12.239449,18.048706 0 0 0 62.43244,42.599357 a 6.2772295,9.2566151 0 0 1 -4.91828,3.514128 6.2772295,9.2566151 0 0 1 -6.277365,-9.25462 6.2772295,9.2566151 0 0 1 6.277365,-9.258373 6.2772295,9.2566151 0 0 1 4.959575,3.58546 12.239449,18.048706 0 0 0 -11.619887,-12.374534 z"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/el.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#cccccc;stroke:none;stroke-width:0.903999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.811196,-21.267939 51.138738,-46.083968 65.466278,-21.267939 51.38158,-35.352638 Z"
+       id="path3578"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/ehl.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.814696px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 77.242035,-16.505608 90.15421,-38.870149 103.06638,-16.505608 90.373062,-29.198929 Z"
+       id="path3732"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/ehr.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:1.51823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.373062,-2.297077 -2.191942,2.191946 2.340887,0.627239 3.392053,-3.392052 -4.511082,-2.604473 -4.118211,2.377649 v 4.35116 L 91.339335,4.75 l 6.642192,-6.642189 -1.65031,-6.159051 -9.329058,-2.499711 -7.845898,7.8459 1.637434,6.110988 10.257519,5.922182 11.726586,-6.770344"
+       id="path3801"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/esr.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:1.94261;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.591753,-4.14498 1.889578,-3.487349 -3.099751,0.08385 -2.924144,5.3967 6.482169,1.550316 4.184504,-4.417172 -1.585838,-5.336787 -8.700073,-2.080767 -5.72595,10.567616 4.268887,6.952725 L 59.734468,4.75 66.49808,-7.732699 62.262504,-14.631167 47.523029,-18.156356 35.607673,-5.57848"
+       id="path4907"
+       inkscape:export-filename="/home/greffmaster/Documents/lua/Love2d/Lustrous/avatars/bloxy/esl.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
